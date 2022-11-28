@@ -13,11 +13,13 @@
  * [x] Split the training set to validation and leave the test set
  * [ ] Train a model on one class and test it with all classes
  * [ ] Optimal stop point when validation is high
- * [ ] ResNet, Vgg16
- * [ ] Batch size increase
+ * [x] ResNet
+ * [ ] Vgg16
+ * [ ] Tensorflow-lite model
  
 
  
  ## Mobile application:
  
  * [ ] Flutter vs React Native research
+ * [ ] App design / wireframes
